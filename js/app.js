@@ -33,7 +33,7 @@ class App extends React.Component {
         localStorage.setItem("tileImage", project.tileImage);
         localStorage.setItem("contentImage", project.contentImage);
 
-        window.location.href = "../project.html";
+        window.location.href = "../info360-portfolio/project.html";
     }
 }
 
