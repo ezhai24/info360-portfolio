@@ -1,0 +1,47 @@
+#pageTitle {
+    text-align: center;
+}
+
+#menu {
+    padding: 0px;
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.menuItem {
+    display: inline;
+}
+
+.projectCard {
+    padding: 10px;
+}
+
+.tileImage {
+    width: 100%;
+    cursor: pointer;
+}
+
+.project {
+    text-align: center;
+}
+
+.projectDescription {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.contactTitle {
+    text-align: center;
+}
+
+.contactForm {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.form-control {
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
