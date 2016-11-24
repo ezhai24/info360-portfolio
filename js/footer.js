@@ -11,13 +11,13 @@ class Footer extends React.Component {
         return (
             <div className="container footer">
                 <a href="https://www.facebook.com/emily.zhai.9" target="_blank">
-                    <img src="../img/facebook-logo.png" className="socialMediaLink" />
+                    <img src="../info360-portfolio/img/facebook-logo.png" className="socialMediaLink" />
                 </a>
                 <a href="https://www.linkedin.com/in/emily-zhai-b7b32a103" target="_blank">
-                    <img src="../img/linkedin-logo.png" className="socialMediaLink" />
+                    <img src="../info360-portfolio/img/linkedin-logo.png" className="socialMediaLink" />
                 </a>
                 <a href="#" onClick={(e) => this.sendEmail(e)}>
-                    <img src="../img/email-envelope-outline.png" className="socialMediaLink" />
+                    <img src="../info360-portfolio/img/email-envelope-outline.png" className="socialMediaLink" />
                 </a>
                 <p>Icons made by SimpleIcon from <a href="www.flaticon.com">www.flaticon.com</a></p>
             </div>
